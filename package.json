@@ -1,0 +1,13 @@
+{
+  "name": "my-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.21.1",
+    "random-useragent": "^0.3.2"
+  }
+}
